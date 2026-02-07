@@ -1,4 +1,4 @@
-# chat_app
+# chat-app
 
 ## セットアップ（macOS）
 
